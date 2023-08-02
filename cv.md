@@ -9,6 +9,7 @@
 **E-mail:** rubanyahor@gmail.com
 
 **Telegram:** [https://t.me/Yahorub]("@Yahorub")
+
 ---
 ### About myself
 
@@ -17,6 +18,7 @@ At this time, I spend almost all my free time studying and working(as a sales ma
 In addition to courses, I read books (Clean Code, Grokking Algorithms), watching videos on YouTube for 
 better understanding of complex topics. Now in the process of learning frontend development with Rs.school and soon i`ll be 
 ready for work as a junior frontend developer.
+
 ---
 ### Skills
 
